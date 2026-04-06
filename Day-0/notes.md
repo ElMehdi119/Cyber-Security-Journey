@@ -113,6 +113,7 @@ echo "Learning Linux" >> notes.txt
 # cat
 # Bedeutung:
 # Zeigt Inhalt einer Datei
+# Beispiel:
 cat notes.txt
 
 ---------------------------
@@ -137,4 +138,4 @@ Navigation und Dateioperationen sind jetzt klar für mich.
 Completed ✅
 
 
-# Beispiel:
+
