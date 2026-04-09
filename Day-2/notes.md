@@ -183,7 +183,7 @@ grep -r
 grep -i
 -------------------------------------
 
-**Fazit**
+## Fazit
 
 Day 2 war ein sehr wichtiger Tag. Ich habe nicht nur gelernt, wie man mit Dateien arbeitet, sondern auch, wie Linux-Berechtigungen,
 versteckte Dateien, Platzhalter und Suchbefehle in der Praxis funktionieren. Besonders wichtig war heute der sicherheitsrelevante Blick auf Dateien,
